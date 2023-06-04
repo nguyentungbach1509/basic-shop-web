@@ -3,13 +3,13 @@ import firebase from 'firebase';
 
 const firebaseApp = firebase.initializeApp ({
     
-    apiKey: "AIzaSyBQkWdWtNNcTJSLjY1uiJc19_fEM7QSk_0",
-    authDomain: "shopping-app-clone-6aa4c.firebaseapp.com",
-    projectId: "shopping-app-clone-6aa4c",
-    storageBucket: "shopping-app-clone-6aa4c.appspot.com",
-    messagingSenderId: "675080591500",
-    appId: "1:675080591500:web:9f3d15643cfdea069003a9",
-    measurementId: "G-FL5BRPN4B5"
+    apiKey: "AIzaSyCZcGm5LG4XlD-7ikitWIDRSmJtfbZLLsI",
+    authDomain: "basic-shop-web.firebaseapp.com",
+    projectId: "basic-shop-web",
+    storageBucket: "basic-shop-web.appspot.com",
+    messagingSenderId: "616427752039",
+    appId: "1:616427752039:web:ef5039f4f62b4a29c8a2c2",
+    measurementId: "G-MZPT56QG9X"
 
 })
 
